@@ -4,6 +4,13 @@ ModusNote is a desktop notes application for Windows. I built it because I wante
 
 It doesn't require a complex installation. It's a single portable executable that saves everything in its own folder without cluttering your system.
 
+## AI Usage
+
+Parts of this project were developed with the assistance of AI tools.  
+AI was mainly used to accelerate prototyping, refactor sections of code, explore UI ideas, and reduce repetitive boilerplate work.
+
+All architecture decisions, debugging, feature integration, and final implementation choices were reviewed and adapted manually.
+
 ## Where are my notes saved?
 If you're looking for your saved data, it's right next to the `.exe`! 
 
